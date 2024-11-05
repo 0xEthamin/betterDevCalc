@@ -43,7 +43,7 @@ hF*d2*hA h
 ```
 will output `h12C`
 
-**Explanation:** Multiplies hexadecimal F (15 in decimal) by decimal 2 by hexadecimal A (10 in decimal), resulting in 15*2*10=300, which is displayed as 12C in hexadecimal.
+**Explanation:** Multiplies hexadecimal F (15 in decimal) by decimal 2 by hexadecimal A (10 in decimal), resulting in 15\*2\*10=300, which is displayed as 12C in hexadecimal.
 
 **Example 3** Calculation Precedence (Order of Operations)
 
